@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000513_0000_0FA6A899F9033AE8"/>
-            <pb facs="tcp:000513_0001_0FA6A89AB86512A0"/>
+            <pb facs="unknown:000513_0000_0FA6A899F9033AE8"/>
+            <pb facs="unknown:000513_0001_0FA6A89AB86512A0"/>
             <p>A <hi>JOURNAL</hi> of the PROCEEDINGS in the late EXPEDITION To <hi>PORT-ROYAL,</hi> On board Their Majesties Ship, the <hi>Six-Friends,</hi> The <hi>HONOURABLE</hi> S<hi rend="sup">R</hi>. WILLIAM PHIPPS Knight, COMMANDER in Chief, &amp;<hi>c.</hi>
             </p>
             <p>
@@ -128,7 +128,7 @@
       </front>
       <body>
          <div type="journal">
-            <pb facs="tcp:000513_0002_0FA6A89B77763630"/>
+            <pb facs="unknown:000513_0002_0FA6A89B77763630"/>
             <head>A Journal of the Proceedings in the late Expedition to Port-Royal &amp;c. Wednesday, April the 23, 1690.</head>
             <p>THis Morning we set sail in the Road before <hi>Governours Island</hi> and Anchored in <hi>Nantasket,</hi> and in the evening got on board our Soldiers from <hi>Governours-Island</hi> and the <hi>Castle.</hi>
             </p>
@@ -157,7 +157,7 @@
             <p>
                <hi>Friday</hi> 2. This Morning the wind came up at N F. we weigh'd and sail'd up the Harbour, which lieth W N W, and intended that night to make an On-sett on the aforesaid Fort, but by bad weather and a Contrary wind were hindred.</p>
             <p>
-               <pb n="4" facs="tcp:000513_0003_0FA6A89C363E1008"/>
+               <pb n="4" facs="unknown:000513_0003_0FA6A89C363E1008"/>
                <hi>Saturday</hi> 3. This day all our souldiers were landed on an Island near us in order to <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> themselves to attacque the said Fort, <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -217,7 +217,7 @@
                </hi> that inhabited there, and if they would not <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> to at<g ref="char:EOLhyphen"/>tacque them, and when they came ashoar they found but one house, and two persons with whom they Treated who surrendred them<g ref="char:EOLhyphen"/>selves: them and their goods they brought away with them. From thence we steer'd E. &amp; by S to avoid the shoal point that lies 4 leagues distant, and then E &amp; by N to <hi>Bull-head,</hi> which is a small Island that makes the Entrance of the <hi>Bay of Pundee:</hi> the Current
-<pb n="5" facs="tcp:000513_0004_0FA6A89EDCF2C058"/>
+<pb n="5" facs="unknown:000513_0004_0FA6A89EDCF2C058"/>
 runs here very strong the Flood setts E N E as the Course is:</p>
             <p>
                <gap reason="illegible" resp="#AELD" extent="1 span">
@@ -275,7 +275,7 @@ runs here very strong the Flood setts E N E as the Course is:</p>
                </gap> the time prefixed.</p>
             <p>
                <hi>Sunday</hi> 11. This morning we weighed, and turned up the river,
-<pb n="6" facs="tcp:000513_0005_0FA6A89F7152FFB8"/>
+<pb n="6" facs="unknown:000513_0005_0FA6A89F7152FFB8"/>
 to the Fort came to an Anchor, landed our men near Mr. <hi>Nelson's</hi> Warehouse at <hi>Port Royal:</hi> our men being <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>, our General, the Governour and Priest went a <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -303,7 +303,7 @@ to the Fort came to an Anchor, landed our men near Mr. <hi>Nelson's</hi> Warehou
                <hi>Fryday.</hi> 16. This day our Regiment and Seamen were sworn to deliver into the Store what plunder they had in their own custody, or to their knowledge in the Custody of any other person. The Great Guns were brought out of the Fort, and drawn down to the water side; the Fort was demolish't, and sundry Plunders brought into the Stores: the same day one of Capt. <hi>Creek's</hi> men died, on board the Hospital-Ketch the <hi>Mary-Ann.</hi>
             </p>
             <p>
-               <pb n="7" facs="tcp:000513_0006_0FA6A89FF89D54F8"/>
+               <pb n="7" facs="unknown:000513_0006_0FA6A89FF89D54F8"/>
                <hi>Saturday,</hi> 17. This day Capt. <hi>
                   <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -350,7 +350,7 @@ to the Fort came to an Anchor, landed our men near Mr. <hi>Nelson's</hi> Warehou
                </gap>hom water, Lat. 44<hi>d.</hi> 4' where we caught good store of C<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>d. At 12 in the night, the wind
-<pb n="8" facs="tcp:000513_0007_0FA6A8A0B9745FC0"/>
+<pb n="8" facs="unknown:000513_0007_0FA6A8A0B9745FC0"/>
 sprang up: And at 12 in the night we tack,t near the Island <hi>Grandmahane,</hi> and lay S and S S W. this night we lost the Com<g ref="char:EOLhyphen"/>pany of Mr. <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> in one of the prize Ketches.</p>
@@ -377,7 +377,7 @@ sprang up: And at 12 in the night we tack,t near the Island <hi>Grandmahane,</hi
                <hi>Fryday,</hi> 30. This Morning when light we saw Cape <hi>Ann</hi> bearing W of us with the Wind at S S E about ten a Clock it blew very hard at E S E the Weather very thick, we tackt off and handed our Topsails, afterwards it prov'd a little clear, and then we stood in, at I we passed by the Castle, they saluted us with five Guns, and we them with the like. Near 2 we Arrived in <hi>Boston Harbour;</hi> the Block-house saluted us with nine Guns, and we answerd them with the like number.</p>
          </div>
          <div type="summons">
-            <pb n="9" facs="tcp:000513_0008_0FA6A8A176B67840"/>
+            <pb n="9" facs="unknown:000513_0008_0FA6A8A176B67840"/>
             <head>A Copy of the Summons sent on Shoar to Mr. Lavedure's, and to the rest of the Inhabitants of Port Royal, and the Places Adjacent.</head>
             <opener>
                <dateline>From on Board the Admiral <date>May 10. 1690.</date>
@@ -409,7 +409,7 @@ Sir William Phipps Knight, Commander in Chief of Their Majesties Forces Raised b
                   </gap> Acts of Hostility done by the</hi> French <hi>inhabiting this Continent, upon the Subjects of their most serene Majesties,</hi> William <hi>and</hi> Mary <hi>of</hi> En<g ref="char:EOLhyphen"/>gland, Scotland, France <hi>and</hi> Ireland, <hi>King and Queen; And Assist<g ref="char:EOLhyphen"/>ance given by them unto the Heathen-Enemies in their Bloody Invasi<g ref="char:EOLhyphen"/>ons, and particularly, sundry of our Vessels being taken, and our men De<g ref="char:EOLhyphen"/>tained Prisoners by your selves, without any Provocation on our part, and that before any War was Proclaimed between the two Nations. These are therefore in the Names, and for the use of Their Majesties of</hi> Great Britain, <hi>to Command and Require the speedy Rendition of the Fort at</hi> Port-Royal, <hi>with all the great Artillery, small <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> and stores of War, and whatsoever else belongs to the French King, promising upon so doing,
-<pb n="10" facs="tcp:000513_0009_0FA6A8A23650CCE8"/>
+<pb n="10" facs="unknown:000513_0009_0FA6A8A23650CCE8"/>
 to give you good Quarters, and to as many of the Planters as will assist us and swear Allegiance to Their Majesties of</hi> England. <hi>And I also promise they shall enjoy their Liberties and properties, and the benefit of peaceable living under the English Government; otherwise I am resolved, by the help of God, on whom alone I trust for Assistance, to attacque, kill, burn &amp; destroy, and then you may, when too late, wish for that favour which you now refuse. I expect your positive and present Answer.</hi>
             </p>
             <p>To the Planters of <hi>Port-Royal</hi> and places adjacent.</p>
@@ -447,7 +447,7 @@ to give you good Quarters, and to as many of the Planters as will assist us and 
          <div type="document">
             <p>
                <hi>These are to Certifie whom it may Concern,</hi> That the Brigantine <hi>Sup<g ref="char:EOLhyphen"/>ply</hi> of <hi>Boston,</hi> formerly taken by the <hi>French,</hi> and now re-taken by us: S<hi>r. William Phipps</hi> Knight, Commander in Chief of Their Majesties Forces at <hi>Port Royal</hi> in <hi>Nova-scotia:</hi> at the request of Capt. <hi>Cyprian Southack,</hi> for his use, and against the common Enemy, have with the Advice of my Council, appointed Capt. <hi>Gregory Sugars</hi> sen'r,
-<pb n="11" facs="tcp:000513_0010_0FA6A8A2F7A6F6A8"/>
+<pb n="11" facs="unknown:000513_0010_0FA6A8A2F7A6F6A8"/>
                <gap reason="illegible" resp="#AELD" extent="1 paragraph">
                   <desc>〈1 paragraph〉</desc>
                </gap>
@@ -531,7 +531,7 @@ to give you good Quarters, and to as many of the Planters as will assist us and 
                   <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> of the Peace among the said inhabitants; which Choice is approved by
-<pb n="12" facs="tcp:000513_0011_0FA6A8A3B75826E0"/>
+<pb n="12" facs="unknown:000513_0011_0FA6A8A3B75826E0"/>
 the Honourable Sir</hi> William Phipps, <hi>Commander in Chief of their <gap reason="illegible" resp="#AELD" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap>.</hi>
@@ -561,7 +561,7 @@ the Honourable Sir</hi> William Phipps, <hi>Commander in Chief of their <gap rea
                </gap>ides what we have advised to,) there be any more circumstantial Things that we cannot <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
-               <pb n="13" facs="tcp:000513_0012_0FA6A8A47B0223E0"/>
+               <pb n="13" facs="unknown:000513_0012_0FA6A8A47B0223E0"/>
 foresee or direct about, we leave it to your best discretion to do what may best conduce to the behoof of our Nation. In all these Matters, you are to make all possible Expedition, and put the Coun<g ref="char:EOLhyphen"/>try to no more Charge than needs must.</p>
          </div>
          <div type="oath">
@@ -584,7 +584,7 @@ foresee or direct about, we leave it to your best discretion to do what may best
             </p>
          </div>
          <div type="instructions">
-            <pb n="14" facs="tcp:000513_0013_0FA6A8A71A257B40"/>
+            <pb n="14" facs="unknown:000513_0013_0FA6A8A71A257B40"/>
             <head>Instructions for the President and Council appointed for Port-Royal and the places Adjacent.</head>
             <p n="1">First, That you Remember the Oath of God that is upon you, in which you have sworn Allegiance to the Crown of <hi>England,</hi> and dem<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
@@ -603,7 +603,7 @@ foresee or direct about, we leave it to your best discretion to do what may best
             <p n="9">9. That if Mr. <hi>Perrot,</hi> or any other person or persons who are at em<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>ity with the Crown of <hi>England,</hi> shall come hither, you are to endeavour the seizing and securing, both persons and vessels for
-<pb n="15" facs="tcp:000513_0014_0FA6A8A7AC354A90"/>
+<pb n="15" facs="unknown:000513_0014_0FA6A8A7AC354A90"/>
 Their Majesties service, and in the places Adjacent; shall impower meet <gap reason="illegible" resp="#AELD" extent="1 span">
                   <desc>〈…〉</desc>
                </gap>.</p>
@@ -662,7 +662,7 @@ Their Majesties service, and in the places Adjacent; shall impower meet <gap rea
             <p n="7">7. <hi>The</hi> Batchelour-<hi>Ketch</hi> John Welch, <hi>Commander,</hi> a Mate, 3 men and one Boy. 6</p>
             <p>Belonging to the Fleet. 286</p>
             <p>
-               <pb n="16" facs="tcp:000513_0015_0FA6A8A837B99830"/>The Foot Regiment.</p>
+               <pb n="16" facs="unknown:000513_0015_0FA6A8A837B99830"/>The Foot Regiment.</p>
             <p n="1">1. William Johnson, <hi>Major,</hi> Edward Willy, <hi>Captain-Li<gap reason="illegible" resp="#AELD" extent="3 letters">
                      <desc>•••</desc>
                   </gap>
